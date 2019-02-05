@@ -8,14 +8,6 @@
 
 CountryPickerModal is a simple, customizable view for selecting countries in iOS apps.
 
-You can clone/download the repository and run the [demo project](https://github.com/aeke/CountryPickerModal/tree/master/CountryPickerModalDemo) to see CountryPickerModal in action. First run `pod install` from the CountryPickerModalDemo directory.
-
-<img align="left" src="https://raw.githubusercontent.com/aeke/CountryPickerModal/master/CountryPickerModalDemo/Screenshots/1.png" width="300">
-<img src="https://raw.githubusercontent.com/aeke/CountryPickerModal/master/CountryPickerModalDemo/Screenshots/2.png" width="300">
-
-<img align="left" src="https://raw.githubusercontent.com/aeke/CountryPickerModal/master/CountryPickerModalDemo/Screenshots/3.png" width="300">
-<img src="https://raw.githubusercontent.com/aeke/CountryPickerModal/master/CountryPickerModalDemo/Screenshots/4.png" width="300">
-
 
 ## Installation
 
