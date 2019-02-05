@@ -1,0 +1,1700 @@
+[
+    {
+        "name": "United States",
+        "code": "US",
+        "dial_code": "+1",
+        "placeholder": "201-555-0123"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dial_code": "+1",
+        "placeholder": "201-555-0123"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+        "dial_code": "+93",
+        "placeholder": "(70) 123-4567"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "dial_code": "+355",
+        "placeholder": "(66) 123-4567"
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+        "dial_code": "+213",
+        "placeholder": "(55) 123-4567"
+    },
+    {
+        "name": "AmericanSamoa",
+        "code": "AS",
+        "dial_code": "+1684",
+        "placeholder": "733-1234"
+    },
+    {
+        "name": "Andorra",
+        "code": "AD",
+        "dial_code": "+376",
+        "placeholder": "31-2345"
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+        "dial_code": "+244",
+        "placeholder": "(92) 312-3456"
+    },
+    {
+        "name": "Anguilla",
+        "code": "AI",
+        "dial_code": "+1264",
+        "placeholder": "235-1234"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "dial_code": "+1268",
+        "placeholder": "464-1234"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+        "dial_code": "+54",
+        "placeholder": "(9112) 345-6789"
+    },
+    {
+        "name": "Armenia",
+        "code": "AM",
+        "dial_code": "+374",
+        "placeholder": "(7) 712-3456"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW",
+        "dial_code": "+297",
+        "placeholder": "560-1234"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "code": "CC",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "dial_code": "+43",
+        "placeholder": "(66) 412-3456"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "dial_code": "+994",
+        "placeholder": "(40) 123-4567"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS",
+        "dial_code": "+1242",
+        "placeholder": "359-1234"
+    },
+    {
+        "name": "Bahrain",
+        "code": "BH",
+        "dial_code": "+973",
+        "placeholder": "(3) 600-1234"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD",
+        "dial_code": "+880",
+        "placeholder": "(181) 234-5678"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB",
+        "dial_code": "+1246",
+        "placeholder": "250-1234"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+        "dial_code": "+375",
+        "placeholder": "(29) 491-1911"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "dial_code": "+32",
+        "placeholder": "(47) 012-3456"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ",
+        "dial_code": "+501",
+        "placeholder": "622-1234"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ",
+        "dial_code": "+229",
+        "placeholder": "(9) 001-1234"
+    },
+    {
+        "name": "Bermuda",
+        "code": "BM",
+        "dial_code": "+1441",
+        "placeholder": "370-1234"
+    },
+    {
+        "name": "Bhutan",
+        "code": "BT",
+        "dial_code": "+975",
+        "placeholder": "(1) 712-3456"
+    },
+    {
+        "name": "Bolivia, Plurinational State of",
+        "code": "BO",
+        "dial_code": "+591",
+        "placeholder": "(7) 123-4567"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "dial_code": "+387",
+        "placeholder": "(6) 112-3456"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+        "dial_code": "+267",
+        "placeholder": "(7) 112-3456"
+    },
+    {
+        "name": "Brazil",
+        "code": "BR",
+        "dial_code": "+55",
+        "placeholder": "(1196) 123-4567"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+        "dial_code": "+246",
+        "placeholder": "380-1234"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "code": "VG",
+        "dial_code": "+1284",
+        "placeholder": "300-1234"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "dial_code": "+673",
+        "placeholder": "712-3456"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "BG",
+        "dial_code": "+359",
+        "placeholder": "(4) 812-3456"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF",
+        "dial_code": "+226",
+        "placeholder": "(7) 012-3456"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI",
+        "dial_code": "+257",
+        "placeholder": "(7) 956-1234"
+    },
+    {
+        "name": "Cambodia",
+        "code": "KH",
+        "dial_code": "+855",
+        "placeholder": "(9) 123-4567"
+    },
+    {
+        "name": "Cameroon",
+        "code": "CM",
+        "dial_code": "+237",
+        "placeholder": "(67) 123-4567"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "dial_code": "+1",
+        "placeholder": "(204) 234-5678"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dial_code": "+1",
+        "placeholder": "(204) 234-5678"
+    },
+    {
+        "name": "Cape Verde",
+        "code": "CV",
+        "dial_code": "+238",
+        "placeholder": "991-1234"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "code": "AN",
+        "dial_code": "+599",
+        "placeholder": "318-1234"
+    },
+    {
+        "name": "Central African Republic",
+        "code": "CF",
+        "dial_code": "+236",
+        "placeholder": "(7) 001-2345"
+    },
+    {
+        "name": "Chad",
+        "code": "TD",
+        "dial_code": "+235",
+        "placeholder": "(6) 301-2345"
+    },
+    {
+        "name": "Chile",
+        "code": "CL",
+        "dial_code": "+56",
+        "placeholder": "(96) 123-4567"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "dial_code": "+86",
+        "placeholder": "(1312) 345-6789"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "code": "CC",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "code": "CC",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+        "dial_code": "+61",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Colombia",
+        "code": "CO",
+        "dial_code": "+57",
+        "placeholder": "(321) 123-4567"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+        "dial_code": "+267",
+        "placeholder": "321-2345"
+    },
+    {
+        "name": "Congo, The Democratic Republic of the Congo",
+        "code": "CD",
+        "dial_code": "+243",
+        "placeholder": "(99) 123-4567"
+    },
+    {
+        "name": "Congo",
+        "code": "CG",
+        "dial_code": "+242",
+        "placeholder": "(0)61234567"
+    },
+    {
+        "name": "Cook Islands",
+        "code": "CK",
+        "dial_code": "+682",
+        "placeholder": "7-1234"
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR",
+        "dial_code": "+506",
+        "placeholder": "(8) 312-3456"
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "code": "CI",
+        "dial_code": "+225",
+        "placeholder": "(0)1234567"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+        "dial_code": "+385",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU",
+        "dial_code": "+53",
+        "placeholder": "(5) 123-4567"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "code": "AN",
+        "dial_code": "+599",
+        "placeholder": "(9) 518-1234"
+    },
+    {
+        "name": "Cyprus",
+        "code": "CY",
+        "dial_code": "+357",
+        "placeholder": "(9) 612-3456"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "dial_code": "+420",
+        "placeholder": "(60) 112-3456"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+        "dial_code": "+45",
+        "placeholder": "(2) 012-3456"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ",
+        "dial_code": "+253",
+        "placeholder": "(7) 783-1001"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM",
+        "dial_code": "+1767",
+        "placeholder": "225-1234"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "dial_code": "+1",
+        "placeholder": "(809) 234-5678"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dial_code": "+1",
+        "placeholder": "(809) 234-5678"
+    },
+    {
+        "name": "Ecuador",
+        "code": "EC",
+        "dial_code": "+593",
+        "placeholder": "(99) 123-4567"
+    },
+    {
+        "name": "Egypt",
+        "code": "EG",
+        "dial_code": "+20",
+        "placeholder": "(100) 123-4567"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV",
+        "dial_code": "+503",
+        "placeholder": "(7) 012-3456"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "dial_code": "+240",
+        "placeholder": "(22) 212-3456"
+    },
+    {
+        "name": "Eritrea",
+        "code": "ER",
+        "dial_code": "+291",
+        "placeholder": "(7) 112-3456"
+    },
+    {
+        "name": "Estonia",
+        "code": "EE",
+        "dial_code": "+372",
+        "placeholder": "(5) 123-4567"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "ET",
+        "dial_code": "+251",
+        "placeholder": "(91) 123-4567"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "dial_code": "+500",
+        "placeholder": "5-1234"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "dial_code": "+500",
+        "placeholder": "5-1234"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "dial_code": "+298",
+        "placeholder": "21-1234"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ",
+        "dial_code": "+679",
+        "placeholder": "701-2345"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+        "dial_code": "+358",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Aland Islands",
+        "code": "AX",
+        "dial_code": "+358",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "dial_code": "+33",
+        "placeholder": "(61) 234-5678"
+    },
+    {
+        "name": "French Guiana",
+        "code": "GF",
+        "dial_code": "+594",
+        "placeholder": "(69) 420-1234"
+    },
+    {
+        "name": "French Polynesia",
+        "code": "PF",
+        "dial_code": "+689",
+        "placeholder": "(8) 712-3456"
+    },
+    {
+        "name": "Gabon",
+        "code": "GA",
+        "dial_code": "+241",
+        "placeholder": "(0)6031234"
+    },
+    {
+        "name": "Gambia",
+        "code": "GM",
+        "dial_code": "+220",
+        "placeholder": "301-2345"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+        "dial_code": "+995",
+        "placeholder": "(55) 512-3456"
+    },
+    {
+        "name": "Germany",
+        "code": "DE",
+        "dial_code": "+49",
+        "placeholder": "(1512) 345-6789"
+    },
+    {
+        "name": "Ghana",
+        "code": "GH",
+        "dial_code": "+233",
+        "placeholder": "(23) 123-4567"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI",
+        "dial_code": "+350",
+        "placeholder": "(5) 712-3456"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+        "dial_code": "+30",
+        "placeholder": "(691) 234-5678"
+    },
+    {
+        "name": "Greenland",
+        "code": "GL",
+        "dial_code": "+299",
+        "placeholder": "22-1234"
+    },
+    {
+        "name": "Grenada",
+        "code": "GD",
+        "dial_code": "+1473",
+        "placeholder": "403-1234"
+    },
+    {
+        "name": "Saint Martin",
+        "code": "MF",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "code": "BL",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Guam",
+        "code": "GU",
+        "dial_code": "+1671",
+        "placeholder": "300-1234"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT",
+        "dial_code": "+502",
+        "placeholder": "(5) 123-4567"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dial_code": "+44",
+        "placeholder": "(778) 112-3456"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dial_code": "+44",
+        "placeholder": "(778) 112-3456"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "placeholder": "(778) 112-3456"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "placeholder": "(778) 112-3456"
+    },
+    {
+        "name": "Guinea",
+        "code": "GN",
+        "dial_code": "+224",
+        "placeholder": "(60) 112-3456"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "dial_code": "+245",
+        "placeholder": "(95) 501-2345"
+    },
+    {
+        "name": "Haiti",
+        "code": "HT",
+        "dial_code": "+509",
+        "placeholder": "(3) 410-1234"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN",
+        "dial_code": "+504",
+        "placeholder": "(9) 123-4567"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK",
+        "dial_code": "+852",
+        "placeholder": "(5) 123-4567"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+        "dial_code": "+36",
+        "placeholder": "(20) 123-4567"
+    },
+    {
+        "name": "Iceland",
+        "code": "IS",
+        "dial_code": "+354",
+        "placeholder": "611-1234"
+    },
+    {
+        "name": "India",
+        "code": "IN",
+        "dial_code": "+91",
+        "placeholder": "(998) 765-4321"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "dial_code": "+62",
+        "placeholder": "(81) 234-5678"
+    },
+    {
+        "name": "Iran, Islamic Republic of Persian Gulf",
+        "code": "IR",
+        "dial_code": "+98",
+        "placeholder": "(912) 345-6789"
+    },
+    {
+        "name": "Iraq",
+        "code": "IQ",
+        "dial_code": "+964",
+        "placeholder": "(791) 234-5678"
+    },
+    {
+        "name": "Ireland",
+        "code": "IE",
+        "dial_code": "+353",
+        "placeholder": "(85) 012-3456"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dial_code": "+44",
+        "placeholder": "(792) 412-3456"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dial_code": "+44",
+        "placeholder": "(792) 412-3456"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "placeholder": "(792) 412-3456"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "placeholder": "(792) 412-3456"
+    },
+    {
+        "name": "Israel",
+        "code": "IL",
+        "dial_code": "+972",
+        "placeholder": "(50) 123-4567"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "dial_code": "+39",
+        "placeholder": "(312) 345-6789"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM",
+        "dial_code": "+1876",
+        "placeholder": "210-1234"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "dial_code": "+81",
+        "placeholder": "(901) 234-5678"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dial_code": "+44",
+        "placeholder": "(779) 771-2345"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dial_code": "+44",
+        "placeholder": "(779) 771-2345"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "placeholder": "(779) 771-2345"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "placeholder": "(779) 771-2345"
+    },
+    {
+        "name": "Jordan",
+        "code": "JO",
+        "dial_code": "+962",
+        "placeholder": "(79) 012-3456"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "dial_code": "+7",
+        "placeholder": "(771) 000-9998"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "dial_code": "+7",
+        "placeholder": "(771) 000-9998"
+    },
+    {
+        "name": "Kenya",
+        "code": "KE",
+        "dial_code": "+254",
+        "placeholder": "(71) 212-3456"
+    },
+    {
+        "name": "Kiribati",
+        "code": "KI",
+        "dial_code": "+686",
+        "placeholder": "(7) 201-2345"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW",
+        "dial_code": "+965",
+        "placeholder": "(5) 001-2345"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "dial_code": "+996",
+        "placeholder": "(70) 012-3456"
+    },
+    {
+        "name": "Laos",
+        "code": "LA",
+        "dial_code": "+856",
+        "placeholder": "(202) 312-3456"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "dial_code": "+371",
+        "placeholder": "(2) 123-4567"
+    },
+    {
+        "name": "Lebanon",
+        "code": "LB",
+        "dial_code": "+961",
+        "placeholder": "71123456"
+    },
+    {
+        "name": "Lesotho",
+        "code": "LS",
+        "dial_code": "+266",
+        "placeholder": "(5) 012-3456"
+    },
+    {
+        "name": "Liberia",
+        "code": "LR",
+        "dial_code": "+231",
+        "placeholder": "(77) 012-3456"
+    },
+    {
+        "name": "Libyan Arab Jamahiriya",
+        "code": "LY",
+        "dial_code": "+218",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "dial_code": "+423",
+        "placeholder": "(66) 023-4567"
+    },
+    {
+        "name": "Lithuania",
+        "code": "LT",
+        "dial_code": "+370",
+        "placeholder": "(6) 123-4567"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LU",
+        "dial_code": "+352",
+        "placeholder": "(62) 812-3456"
+    },
+    {
+        "name": "Macao",
+        "code": "MO",
+        "dial_code": "+853",
+        "placeholder": "(6) 612-3456"
+    },
+    {
+        "name": "Macedonia",
+        "code": "MK",
+        "dial_code": "+389",
+        "placeholder": "(7) 234-5678"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG",
+        "dial_code": "+261",
+        "placeholder": "(32) 123-4567"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW",
+        "dial_code": "+265",
+        "placeholder": "(99) 123-4567"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "dial_code": "+60",
+        "placeholder": "(12) 345-6789"
+    },
+    {
+        "name": "Maldives",
+        "code": "MV",
+        "dial_code": "+960",
+        "placeholder": "771-2345"
+    },
+    {
+        "name": "Mali",
+        "code": "ML",
+        "dial_code": "+223",
+        "placeholder": "(6) 501-2345"
+    },
+    {
+        "name": "Malta",
+        "code": "MT",
+        "dial_code": "+356",
+        "placeholder": "(9) 696-1234"
+    },
+    {
+        "name": "Marshall Islands",
+        "code": "MH",
+        "dial_code": "+692",
+        "placeholder": "235-1234"
+    },
+    {
+        "name": "Martinique",
+        "code": "MQ",
+        "dial_code": "+596",
+        "placeholder": "(69) 620-1234"
+    },
+    {
+        "name": "Mauritania",
+        "code": "MR",
+        "dial_code": "+222",
+        "placeholder": "(2) 212-3456"
+    },
+    {
+        "name": "Mauritius",
+        "code": "MU",
+        "dial_code": "+230",
+        "placeholder": "(5) 251-2345"
+    },
+    {
+        "name": "Reunion",
+        "code": "RE",
+        "dial_code": "+262",
+        "placeholder": "(63) 912-3456"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "dial_code": "+262",
+        "placeholder": "(63) 912-3456"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "dial_code": "+52",
+        "placeholder": "(1222) 123-4567"
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "code": "FM",
+        "dial_code": "+691",
+        "placeholder": "350-1234"
+    },
+    {
+        "name": "Moldova",
+        "code": "MD",
+        "dial_code": "+373",
+        "placeholder": "(6) 211-2345"
+    },
+    {
+        "name": "Monaco",
+        "code": "MC",
+        "dial_code": "+377",
+        "placeholder": "(61) 234-5678"
+    },
+    {
+        "name": "Mongolia",
+        "code": "MN",
+        "dial_code": "+976",
+        "placeholder": "(8) 812-3456"
+    },
+    {
+        "name": "Montenegro",
+        "code": "ME",
+        "dial_code": "+382",
+        "placeholder": "(6) 762-2901"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS",
+        "dial_code": "+1664",
+        "placeholder": "492-3456"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "dial_code": "+212",
+        "placeholder": "(65) 012-3456"
+    },
+    {
+        "name": "Mozambique",
+        "code": "MZ",
+        "dial_code": "+258",
+        "placeholder": "(82) 123-4567"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM",
+        "dial_code": "+95",
+        "placeholder": "(9) 212-3456"
+    },
+    {
+        "name": "Namibia",
+        "code": "NA",
+        "dial_code": "+264",
+        "placeholder": "(81) 123-4567"
+    },
+    {
+        "name": "Nauru",
+        "code": "NR",
+        "dial_code": "+674",
+        "placeholder": "555-1234"
+    },
+    {
+        "name": "Nepal",
+        "code": "NP",
+        "dial_code": "+977",
+        "placeholder": "(984) 123-4567"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "dial_code": "+31",
+        "placeholder": "(61) 234-5678"
+    },
+    {
+        "name": "New Caledonia",
+        "code": "NC",
+        "dial_code": "+687",
+        "placeholder": "75-1234"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ",
+        "dial_code": "+64",
+        "placeholder": "(21) 123-4567"
+    },
+    {
+        "name": "Nicaragua",
+        "code": "NI",
+        "dial_code": "+505",
+        "placeholder": "(8) 123-4567"
+    },
+    {
+        "name": "Niger",
+        "code": "NE",
+        "dial_code": "+227",
+        "placeholder": "(9) 312-3456"
+    },
+    {
+        "name": "Niue",
+        "code": "NU",
+        "dial_code": "+683",
+        "placeholder": "-1234"
+    },
+    {
+        "name": "Norfolk Island",
+        "code": "NF",
+        "dial_code": "+672",
+        "placeholder": "38-1234"
+    },
+    {
+        "name": "Antarctica",
+        "code": "AQ",
+        "dial_code": "+672",
+        "placeholder": "38-1234"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of Korea",
+        "code": "KP",
+        "dial_code": "+850",
+        "placeholder": "(192) 123-4567"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "dial_code": "+1670",
+        "placeholder": "234-5678"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "dial_code": "+47",
+        "placeholder": "(4) 061-2345"
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "dial_code": "+47",
+        "placeholder": "(4) 061-2345"
+    },
+    {
+        "name": "Oman",
+        "code": "OM",
+        "dial_code": "+968",
+        "placeholder": "(9) 212-3456"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PK",
+        "dial_code": "+92",
+        "placeholder": "(301) 234-5678"
+    },
+    {
+        "name": "Palau",
+        "code": "PW",
+        "dial_code": "+680",
+        "placeholder": "620-1234"
+    },
+    {
+        "name": "Palestinian Territory, Occupied",
+        "code": "PS",
+        "dial_code": "+970",
+        "placeholder": "(59) 912-3456"
+    },
+    {
+        "name": "Panama",
+        "code": "PA",
+        "dial_code": "+507",
+        "placeholder": "(6) 001-2345"
+    },
+    {
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "dial_code": "+675",
+        "placeholder": "681-2345"
+    },
+    {
+        "name": "Paraguay",
+        "code": "PY",
+        "dial_code": "+595",
+        "placeholder": "(96) 145-6789"
+    },
+    {
+        "name": "Guyana",
+        "code": "GY",
+        "dial_code": "+595",
+        "placeholder": "(96) 145-6789"
+    },
+    {
+        "name": "Peru",
+        "code": "PE",
+        "dial_code": "+51",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH",
+        "dial_code": "+63",
+        "placeholder": "(905) 123-4567"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "dial_code": "+48",
+        "placeholder": "(51) 234-5678"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "dial_code": "+351",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "dial_code": "+1",
+        "placeholder": "(787) 234-5678"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dial_code": "+1",
+        "placeholder": "(787) 234-5678"
+    },
+    {
+        "name": "Qatar",
+        "code": "QA",
+        "dial_code": "+974",
+        "placeholder": "(3) 312-3456"
+    },
+    {
+        "name": "Reunion",
+        "code": "RE",
+        "dial_code": "+262",
+        "placeholder": "(69) 212-3456"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "dial_code": "+262",
+        "placeholder": "(69) 212-3456"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "dial_code": "+40",
+        "placeholder": "(71) 234-5678"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "dial_code": "+7",
+        "placeholder": "(912) 345-6789"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "dial_code": "+7",
+        "placeholder": "(912) 345-6789"
+    },
+    {
+        "name": "Rwanda",
+        "code": "RW",
+        "dial_code": "+250",
+        "placeholder": "(72) 012-3456"
+    },
+    {
+        "name": "Saint Martin",
+        "code": "MF",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "code": "BL",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "code": "SH",
+        "dial_code": "+290",
+        "placeholder": "5-1234"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "dial_code": "+1869",
+        "placeholder": "765-2917"
+    },
+    {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "dial_code": "+1758",
+        "placeholder": "284-5678"
+    },
+    {
+        "name": "Saint Martin",
+        "code": "MF",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "code": "BL",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "dial_code": "+590",
+        "placeholder": "(69) 030-1234"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "dial_code": "+508",
+        "placeholder": "55-1234"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "dial_code": "+1784",
+        "placeholder": "430-1234"
+    },
+    {
+        "name": "Samoa",
+        "code": "WS",
+        "dial_code": "+685",
+        "placeholder": "60-1234"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM",
+        "dial_code": "+378",
+        "placeholder": "(6) 666-1212"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "dial_code": "+239",
+        "placeholder": "981-2345"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "dial_code": "+966",
+        "placeholder": "(51) 234-5678"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN",
+        "dial_code": "+221",
+        "placeholder": "(70) 123-4567"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "dial_code": "+381",
+        "placeholder": "(60) 123-4567"
+    },
+    {
+        "name": "Seychelles",
+        "code": "SC",
+        "dial_code": "+248",
+        "placeholder": "251-0123"
+    },
+    {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "dial_code": "+232",
+        "placeholder": "(2) 512-3456"
+    },
+    {
+        "name": "Singapore",
+        "code": "SG",
+        "dial_code": "+65",
+        "placeholder": "(8) 123-4567"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "dial_code": "+421",
+        "placeholder": "(91) 212-3456"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "dial_code": "+386",
+        "placeholder": "(3) 123-4567"
+    },
+    {
+        "name": "Solomon Islands",
+        "code": "SB",
+        "dial_code": "+677",
+        "placeholder": "742-1234"
+    },
+    {
+        "name": "Somalia",
+        "code": "SO",
+        "dial_code": "+252",
+        "placeholder": "(7) 112-3456"
+    },
+    {
+        "name": "South Africa",
+        "code": "ZA",
+        "dial_code": "+27",
+        "placeholder": "(71) 123-4567"
+    },
+    {
+        "name": "Korea, Republic of South Korea",
+        "code": "KR",
+        "dial_code": "+82",
+        "placeholder": "(100) 000-0000"
+    },
+    {
+        "name": "South Sudan",
+        "code": "SS",
+        "dial_code": "+211",
+        "placeholder": "(97) 712-3456"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "dial_code": "+34",
+        "placeholder": "(61) 234-5678"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "dial_code": "+94",
+        "placeholder": "(71) 234-5678"
+    },
+    {
+        "name": "Sudan",
+        "code": "SD",
+        "dial_code": "+249",
+        "placeholder": "(91) 123-1234"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR",
+        "dial_code": "+597",
+        "placeholder": "741-2345"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "dial_code": "+47",
+        "placeholder": "(4) 123-4567"
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "dial_code": "+47",
+        "placeholder": "(4) 123-4567"
+    },
+    {
+        "name": "Swaziland",
+        "code": "SZ",
+        "dial_code": "+268",
+        "placeholder": "(7) 612-3456"
+    },
+    {
+        "name": "Sweden",
+        "code": "SE",
+        "dial_code": "+46",
+        "placeholder": "(70) 123-4567"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "dial_code": "+41",
+        "placeholder": "(78) 123-4567"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "dial_code": "+963",
+        "placeholder": "(94) 456-7890"
+    },
+    {
+        "name": "Taiwan",
+        "code": "TW",
+        "dial_code": "+886",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "dial_code": "+992",
+        "placeholder": "(91) 712-3456"
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "code": "TZ",
+        "dial_code": "+255",
+        "placeholder": "(62) 123-4567"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "dial_code": "+66",
+        "placeholder": "(81) 234-5678"
+    },
+    {
+        "name": "Timor-Leste",
+        "code": "TL",
+        "dial_code": "+670",
+        "placeholder": "(7) 721-2345"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "dial_code": "+228",
+        "placeholder": "(9) 011-2345"
+    },
+    {
+        "name": "Tokelau",
+        "code": "TK",
+        "dial_code": "+690",
+        "placeholder": "-7290"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO",
+        "dial_code": "+676",
+        "placeholder": "771-5123"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "dial_code": "+1868",
+        "placeholder": "291-1234"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "dial_code": "+216",
+        "placeholder": "(2) 012-3456"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "dial_code": "+90",
+        "placeholder": "(501) 234-5678"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "dial_code": "+993",
+        "placeholder": "(6) 612-3456"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "dial_code": "+1649",
+        "placeholder": "231-1234"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV",
+        "dial_code": "+688",
+        "placeholder": "90-1234"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "code": "VI",
+        "dial_code": "+1340",
+        "placeholder": "642-1234"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG",
+        "dial_code": "+256",
+        "placeholder": "(71) 234-5678"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "dial_code": "+380",
+        "placeholder": "(39) 123-4567"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "dial_code": "+971",
+        "placeholder": "(50) 123-4567"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "dial_code": "+1",
+        "placeholder": "201-555-0123"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dial_code": "+1",
+        "placeholder": "201-555-0123"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "placeholder": "(740) 012-3456"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY",
+        "dial_code": "+598",
+        "placeholder": "(9) 423-1234"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "dial_code": "+998",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Vanuatu",
+        "code": "VU",
+        "dial_code": "+678",
+        "placeholder": "591-2345"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "dial_code": "+39",
+        "placeholder": "(312) 345-6789"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "code": "VE",
+        "dial_code": "+58",
+        "placeholder": "(412) 123-4567"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN",
+        "dial_code": "+84",
+        "placeholder": "(91) 234-5678"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "dial_code": "+681",
+        "placeholder": "50-1234"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "dial_code": "+212",
+        "placeholder": "(65) 012-3456"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "dial_code": "+967",
+        "placeholder": "(71) 234-5678"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "dial_code": "+260",
+        "placeholder": "(95) 512-3456"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "dial_code": "+263",
+        "placeholder": "(71) 123-4567"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+        "dial_code": "+358",
+        "placeholder": "(41) 234-5678"
+    },
+    {
+        "name": "Aland Islands",
+        "code": "AX",
+        "dial_code": "+358",
+        "placeholder": "(41) 234-5678"
+    }
+]
