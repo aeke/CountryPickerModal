@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CountryPickerModal"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "A simple, customizable view for selecting countries in iOS apps."
   spec.homepage     = "https://github.com/aeke/CountryPickerModal"
   spec.license      = "MIT"
