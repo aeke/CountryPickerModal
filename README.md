@@ -6,6 +6,8 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/badge/License-MIT-8D6E63.svg)](https://github.com/aeke/CountryPickerModal/blob/master/LICENSE.md)
 
+## This repository is forked from https://github.com/kizitonwose/CountryPickerView
+
 CountryPickerModal is a simple, customizable view for selecting countries in iOS apps.
 
 
